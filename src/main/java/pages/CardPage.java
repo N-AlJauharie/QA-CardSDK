@@ -92,10 +92,14 @@ public class CardPage {
      */
     public void clickCreateToken() {
         wait.until(ExpectedConditions.elementToBeClickable(createTokenButton)).click();
+        System.out.println("clicked on token bttn");
+
         try {
             Thread.sleep(20);
         } catch (InterruptedException e) {
             e.printStackTrace();
+
+
         }
     }
 
@@ -246,7 +250,7 @@ public class CardPage {
     }
 
  */
-
+/*
     public void handleAuthenticationFrameAndSubmit() {
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(20));
 
@@ -272,6 +276,220 @@ public class CardPage {
         }
     }
 
+ */
+
+/*
+    public void handleAuthenticationFrameAndSubmit() {
+
+
+
+        driver.switchTo().frame("tap-card-iframe");
+        System.out.println("1st frame loaded...");
+
+
+        try {
+
+            WebElement authenticationFrame = (WebElement) wait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(By.id("tap-card-iframe-authentication")));
+            System.out.println("Second frame loaded...");
+
+            WebElement challengeFrame = (WebElement) wait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(By.id("challengeFrame")));
+            System.out.println("third frame loaded...");
+
+            WebElement submitButton = wait.until(ExpectedConditions.elementToBeClickable(By.id("acssubmit")));
+            JavascriptExecutor js = (JavascriptExecutor) driver;
+            js.executeScript("arguments[0].click();", submitButton);
+
+        } catch (TimeoutException toee) {
+            try {
+
+                WebElement redirectTo3ds1Frame = (WebElement) wait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(By.id("redirectTo3ds1Frame")));
+                WebElement redirectSubmitButton = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("/html/body/div/div/div[3]/center/form/table/tbody/tr[13]/td/input")));
+                redirectSubmitButton.click();
+            } catch (TimeoutException toeee) {
+                System.out.println("Authentication frames not available within the expected time.");
+            }
+        }
+    }
+
+
+ */
+
+    /*
+    public void handleAuthenticationFrameAndSubmit() {
+        try {
+            wait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(By.id("tap-card-iframe")));
+            System.out.println("1st frame (tap-card-iframe) loaded...");
+
+            wait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(By.id("tap-card-iframe-authentication")));
+            System.out.println("2nd frame (tap-card-iframe-authentication) loaded...");
+
+            wait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(By.id("challengeFrame")));
+            System.out.println("3rd frame (challengeFrame) loaded...");
+
+            WebElement submitButton = wait.until(ExpectedConditions.elementToBeClickable(By.id("acssubmit")));
+            ((JavascriptExecutor) driver).executeScript("arguments[0].click();", submitButton);
+            System.out.println("Submit button clicked successfully.");
+
+        } catch (TimeoutException e) {
+            System.out.println("Timeout while waiting for frames or elements: " + e.getMessage());
+        }
+    }
+
+     */
+
+    /*
+
+    public void handleAuthenticationFrameAndSubmit() {
+
+        WebDriverWait customWait = new WebDriverWait(driver, Duration.ofSeconds(30));
+
+        try {
+            if (isFramePresent("tap-card-iframe")) {
+                customWait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(By.id("tap-card-iframe")));
+                System.out.println("1st frame (tap-card-iframe) loaded...");
+            } else {
+                System.out.println("1st frame (tap-card-iframe) not found.");
+                return;
+            }
+
+            if (isFramePresent("tap-card-iframe-authentication")) {
+                customWait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(By.id("tap-card-iframe-authentication")));
+                System.out.println("2nd frame (tap-card-iframe-authentication) loaded...");
+            } else {
+                System.out.println("2nd frame (tap-card-iframe-authentication) not found.");
+                return;
+            }
+
+            if (isFramePresent("challengeFrame")) {
+                customWait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(By.id("challengeFrame")));
+                System.out.println("3rd frame (challengeFrame) loaded...");
+            } else {
+                System.out.println("3rd frame (challengeFrame) not found.");
+                return;
+            }
+
+            WebElement submitButton = customWait.until(ExpectedConditions.elementToBeClickable(By.id("acssubmit")));
+            ((JavascriptExecutor) driver).executeScript("arguments[0].click();", submitButton);
+            System.out.println("Submit button clicked successfully.");
+
+        } catch (TimeoutException e) {
+            System.out.println("Timeout while waiting for frames or elements: " + e.getMessage());
+        }
+    }
+
+    // Helper method to check if a frame is present in the DOM
+    private boolean isFramePresent(String frameId) {
+        return driver.findElements(By.id(frameId)).size() > 0;
+    }
+
+
+     */
+
+    /*
+    public void handleAuthenticationFrameAndSubmit() {
+        WebDriverWait customWait = new WebDriverWait(driver, Duration.ofSeconds(30));
+
+        try {
+            if (isFramePresent("tap-card-iframe")) {
+                customWait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(By.id("tap-card-iframe")));
+                System.out.println("1st frame (tap-card-iframe) loaded...");
+                Thread.sleep(1000);
+            } else {
+                System.out.println("1st frame (tap-card-iframe) not found.");
+                return;
+            }
+
+            System.out.println(driver.getPageSource());
+
+            if (isFramePresent("tap-card-iframe-authentication")) {
+                customWait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(By.id("tap-card-iframe-authentication")));
+                System.out.println("2nd frame (tap-card-iframe-authentication) loaded...");
+                Thread.sleep(1000);
+            } else {
+                System.out.println("2nd frame (tap-card-iframe-authentication) not found.");
+                return;
+            }
+
+            if (isFramePresent("challengeFrame")) {
+                customWait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(By.id("challengeFrame")));
+                System.out.println("3rd frame (challengeFrame) loaded...");
+            } else {
+                System.out.println("3rd frame (challengeFrame) not found.");
+                return;
+            }
+
+            WebElement submitButton = customWait.until(ExpectedConditions.elementToBeClickable(By.id("acssubmit")));
+            ((JavascriptExecutor) driver).executeScript("arguments[0].click();", submitButton);
+            System.out.println("Submit button clicked successfully.");
+
+        } catch (TimeoutException e) {
+            System.out.println("Timeout while waiting for frames or elements: " + e.getMessage());
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private boolean isFramePresent(String frameId) {
+        return driver.findElements(By.id(frameId)).size() > 0;
+    }
+
+     */
+
+    public void handleAuthenticationFrameAndSubmit() {
+        WebDriverWait customWait = new WebDriverWait(driver, Duration.ofSeconds(30));
+
+        try {
+            if (isFramePresent("tap-card-iframe")) {
+                customWait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(By.id("tap-card-iframe")));
+                System.out.println("1st frame (tap-card-iframe) loaded...");
+                Thread.sleep(1000);
+            } else {
+                System.out.println("1st frame (tap-card-iframe) not found.");
+                return;
+            }
+
+            if (isFramePresent("tap-card-iframe-authentication")) {
+                customWait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(By.id("tap-card-iframe-authentication")));
+                System.out.println("2nd frame (tap-card-iframe-authentication) loaded...");
+                Thread.sleep(1000);
+            } else {
+                System.out.println("2nd frame (tap-card-iframe-authentication) not found.");
+                return;
+            }
+
+            boolean isChallengeFrameLoaded = false;
+            for (int i = 0; i < 30; i++) {
+                if (isFramePresent("challengeFrame")) {
+                    customWait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(By.id("challengeFrame")));
+                    System.out.println("3rd frame (challengeFrame) loaded...");
+                    isChallengeFrameLoaded = true;
+                    break;
+                } else {
+                    System.out.println("Waiting for challengeFrame to load...");
+                    Thread.sleep(1000);
+                }
+            }
+
+            if (!isChallengeFrameLoaded) {
+                System.out.println("3rd frame (challengeFrame) not found.");
+                return;
+            }
+
+
+            WebElement submitButton = customWait.until(ExpectedConditions.elementToBeClickable(By.id("acssubmit")));
+            ((JavascriptExecutor) driver).executeScript("arguments[0].click();", submitButton);
+            System.out.println("Submit button clicked successfully.");
+
+        } catch (TimeoutException e) {
+            System.out.println("Timeout while waiting for frames or elements: " + e.getMessage());
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+
+
+    private boolean isFramePresent(String frameId) {
+        return driver.findElements(By.id(frameId)).size() > 0;
+    }
+
 }
-
-

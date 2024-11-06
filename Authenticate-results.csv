@@ -1,0 +1,378 @@
+"Currency","Purpose","Card Number","Token ID","Brand","Scheme","Status","Failure Reason"
+"Currency","Purpose","Card Number","Brand","Scheme","Authenticate ID","Authentication.Status","Response.Message"
+"Currency","Purpose","Card Number","Token ID","Brand","Scheme","Status","Failure Reason"
+"Currency","Purpose","Card Number","Brand","Scheme","Authenticate ID","Authentication.Status","Response.Message"
+"Currency","Purpose","Card Number","Token ID","Brand","Scheme","Status","Failure Reason"
+"Currency","Purpose","Card Number","Brand","Scheme","Authenticate ID","Authentication.Status","Response.Message"
+"Currency","Purpose","Card Number","Token ID","Brand","Scheme","Status","Failure Reason"
+"Currency","Purpose","Card Number","Brand","Scheme","Authenticate ID","Authentication.Status","Response.Message"
+"Currency","Purpose","Card Number","Token ID","Brand","Scheme","Status","Failure Reason"
+"Currency","Purpose","Card Number","Brand","Scheme","Authenticate ID","Authentication.Status","Response.Message"
+"Currency","Purpose","Card Number","Token ID","Brand","Scheme","Status","Failure Reason"
+"Currency","Purpose","Card Number","Brand","Scheme","Authenticate ID","Authentication.Status","Response.Message"
+"KWD","Charge","5123450000000008","","","","","","Fail","class org.openqa.selenium.chrome.ChromeDriver cannot be cast to class org.openqa.selenium.WebElement (org.openqa.selenium.chrome.ChromeDriver and org.openqa.selenium.WebElement are in unnamed module of loader 'app')"
+"KWD","Authorize","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.KZTXBN}, goog:chromeOptions: {debuggerAddress: localhost:44659}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:44659/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 22415a54fbb4bc58e5ac8919d8321083"
+"Currency","Purpose","Card Number","Token ID","Brand","Scheme","Status","Failure Reason"
+"Currency","Purpose","Card Number","Brand","Scheme","Authenticate ID","Authentication.Status","Response.Message"
+"KWD","Charge","5123450000000008","","","","","","Fail","class org.openqa.selenium.chrome.ChromeDriver cannot be cast to class org.openqa.selenium.WebElement (org.openqa.selenium.chrome.ChromeDriver and org.openqa.selenium.WebElement are in unnamed module of loader 'app')"
+"KWD","Authorize","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.BvvpbL}, goog:chromeOptions: {debuggerAddress: localhost:46019}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:46019/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e19a34336f50069e676f62ad4ee241fe"
+"Currency","Purpose","Card Number","Token ID","Brand","Scheme","Status","Failure Reason"
+"Currency","Purpose","Card Number","Brand","Scheme","Authenticate ID","Authentication.Status","Response.Message"
+"KWD","Charge","5123450000000008","","","","","","Fail","class org.openqa.selenium.chrome.ChromeDriver cannot be cast to class org.openqa.selenium.WebElement (org.openqa.selenium.chrome.ChromeDriver and org.openqa.selenium.WebElement are in unnamed module of loader 'app')"
+"KWD","Authorize","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.B5BkWF}, goog:chromeOptions: {debuggerAddress: localhost:40585}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:40585/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6bf7ff22c874744b62a974db1ef98f6b"
+"KWD","Save Token","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.B5BkWF}, goog:chromeOptions: {debuggerAddress: localhost:40585}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:40585/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6bf7ff22c874744b62a974db1ef98f6b"
+"AED","Charge","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.B5BkWF}, goog:chromeOptions: {debuggerAddress: localhost:40585}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:40585/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6bf7ff22c874744b62a974db1ef98f6b"
+"AED","Authorize","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.B5BkWF}, goog:chromeOptions: {debuggerAddress: localhost:40585}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:40585/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6bf7ff22c874744b62a974db1ef98f6b"
+"AED","Save Token","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.B5BkWF}, goog:chromeOptions: {debuggerAddress: localhost:40585}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:40585/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6bf7ff22c874744b62a974db1ef98f6b"
+"BHD","Charge","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.B5BkWF}, goog:chromeOptions: {debuggerAddress: localhost:40585}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:40585/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6bf7ff22c874744b62a974db1ef98f6b"
+"BHD","Authorize","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.B5BkWF}, goog:chromeOptions: {debuggerAddress: localhost:40585}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:40585/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6bf7ff22c874744b62a974db1ef98f6b"
+"BHD","Sav"Currency","Purpose","Card Number","Token ID","Brand","Scheme","Status","Failure Reason"
+"Currency","Purpose","Card Number","Brand","Scheme","Authenticate ID","Authentication.Status","Response.Message"
+"KWD","Charge","5123450000000008","","","","","","Fail","class org.openqa.selenium.chrome.ChromeDriver cannot be cast to class org.openqa.selenium.WebElement (org.openqa.selenium.chrome.ChromeDriver and org.openqa.selenium.WebElement are in unnamed module of loader 'app')"
+"KWD","Authorize","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.sWEv1Z}, goog:chromeOptions: {debuggerAddress: localhost:44797}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:44797/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a943f5f8d207919f0ed9acc062784fd9"
+"KWD","Save Token","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.sWEv1Z}, goog:chromeOptions: {debuggerAddress: localhost:44797}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:44797/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a943f5f8d207919f0ed9acc062784fd9"
+"AED","Charge","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.sWEv1Z}, goog:chromeOptions: {debuggerAddress: localhost:44797}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:44797/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a943f5f8d207919f0ed9acc062784fd9"
+"AED","Authorize","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.sWEv1Z}, goog:chromeOptions: {debuggerAddress: localhost:44797}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:44797/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a943f5f8d207919f0ed9acc062784fd9"
+"AED","Save Token","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.sWEv1Z}, goog:chromeOptions: {debuggerAddress: localhost:44797}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:44797/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a943f5f8d207919f0ed9acc062784fd9"
+"BHD","Charge","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.sWEv1Z}, goog:chromeOptions: {debuggerAddress: localhost:44797}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:44797/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a943f5f8d207919f0ed9acc062784fd9"
+"BHD","Authorize","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.sWEv1Z}, goog:chromeOptions: {debuggerAddress: localhost:44797}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:44797/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a943f5f8d207919f0ed9acc062784fd9"
+"BHD","Sav"Currency","Purpose","Card Number","Token ID","Brand","Scheme","Status","Failure Reason"
+"Currency","Purpose","Card Number","Brand","Scheme","Authenticate ID","Authentication.Status","Response.Message"
+"KWD","Charge","5123450000000008","","","","","","Fail","class org.openqa.selenium.chrome.ChromeDriver cannot be cast to class org.openqa.selenium.WebElement (org.openqa.selenium.chrome.ChromeDriver and org.openqa.selenium.WebElement are in unnamed module of loader 'app')"
+"KWD","Authorize","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.RtIH8P}, goog:chromeOptions: {debuggerAddress: localhost:38955}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:38955/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 47df5c5182bc774c4e0009bc53609e9e"
+"KWD","Save Token","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.RtIH8P}, goog:chromeOptions: {debuggerAddress: localhost:38955}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:38955/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 47df5c5182bc774c4e0009bc53609e9e"
+"AED","Charge","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.RtIH8P}, goog:chromeOptions: {debuggerAddress: localhost:38955}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:38955/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 47df5c5182bc774c4e0009bc53609e9e"
+"AED","Authorize","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.RtIH8P}, goog:chromeOptions: {debuggerAddress: localhost:38955}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:38955/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 47df5c5182bc774c4e0009bc53609e9e"
+"AED","Save Token","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.RtIH8P}, goog:chromeOptions: {debuggerAddress: localhost:38955}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:38955/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 47df5c5182bc774c4e0009bc53609e9e"
+"BHD","Charge","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.RtIH8P}, goog:chromeOptions: {debuggerAddress: localhost:38955}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:38955/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 47df5c5182bc774c4e0009bc53609e9e"
+"BHD","Authorize","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.RtIH8P}, goog:chromeOptions: {debuggerAddress: localhost:38955}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:38955/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 47df5c5182bc774c4e0009bc53609e9e"
+"BHD","Sav"Currency","Purpose","Card Number","Token ID","Brand","Scheme","Status","Failure Reason"
+"Currency","Purpose","Card Number","Brand","Scheme","Authenticate ID","Authentication.Status","Response.Message"
+"KWD","Charge","5123450000000008","","","","","","Fail","class org.openqa.selenium.chrome.ChromeDriver cannot be cast to class org.openqa.selenium.WebElement (org.openqa.selenium.chrome.ChromeDriver and org.openqa.selenium.WebElement are in unnamed module of loader 'app')"
+"KWD","Authorize","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.AG6NfS}, goog:chromeOptions: {debuggerAddress: localhost:45987}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:45987/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7d60967ec77389da63aee9fcb9fd5de9"
+"Currency","Purpose","Card Number","Token ID","Brand","Scheme","Status","Failure Reason"
+"Currency","Purpose","Card Number","Brand","Scheme","Authenticate ID","Authentication.Status","Response.Message"
+"KWD","Charge","5123450000000008","","","","","","Fail","class org.openqa.selenium.chrome.ChromeDriver cannot be cast to class org.openqa.selenium.WebElement (org.openqa.selenium.chrome.ChromeDriver and org.openqa.selenium.WebElement are in unnamed module of loader 'app')"
+"KWD","Authorize","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.4VjcEi}, goog:chromeOptions: {debuggerAddress: localhost:34167}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:34167/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2368dd51e4d77b81b747e9ed9434972d"
+"KWD","Save Token","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.4VjcEi}, goog:chromeOptions: {debuggerAddress: localhost:34167}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:34167/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2368dd51e4d77b81b747e9ed9434972d"
+"AED","Charge","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.4VjcEi}, goog:chromeOptions: {debuggerAddress: localhost:34167}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:34167/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2368dd51e4d77b81b747e9ed9434972d"
+"AED","Authorize","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.4VjcEi}, goog:chromeOptions: {debuggerAddress: localhost:34167}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:34167/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2368dd51e4d77b81b747e9ed9434972d"
+"AED","Save Token","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.4VjcEi}, goog:chromeOptions: {debuggerAddress: localhost:34167}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:34167/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2368dd51e4d77b81b747e9ed9434972d"
+"BHD","Charge","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)"
+"BHD","Authorize","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)"
+"BHD","Save Token","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)"
+"EGP","Charge","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)"
+"EGP","Authorize","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)"
+"EGP","Save Token","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)"
+"EUR","Charge","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)"
+"EUR","Authorize","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)"
+"EUR","Save Token","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)"
+"GBP","Charge","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)"
+"GBP","Authorize","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)"
+"GBP","Save Token","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)"
+"OMR","Charge","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)"
+"OMR","Authorize","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)"
+"OMR","Save Token","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)"
+"QAR","Charge","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)"
+"QAR","Authorize","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)"
+"QAR","Save Token","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)"
+"SAR","Charge","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)"
+"SAR","Authorize","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)"
+"SAR","Save Token","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)"
+"USD","Charge","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)"
+"USD","Authorize","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)"
+"USD","Save Token","5123450000000008","","","","","","Fail","Expected condition failed: waiting for visibility of element located by By.id: currency (tried for 15 second(s) with 500 milliseconds interval)"
+"Currency","Purpose","Card Number","Token ID","Brand","Scheme","Status","Failure Reason"
+"Currency","Purpose","Card Number","Brand","Scheme","Authenticate ID","Authentication.Status","Response.Message"
+"KWD","Charge","5123450000000008","","","","","","Fail","class org.openqa.selenium.chrome.ChromeDriver cannot be cast to class org.openqa.selenium.WebElement (org.openqa.selenium.chrome.ChromeDriver and org.openqa.selenium.WebElement are in unnamed module of loader 'app') | Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='root']/section/aside/article[2]/pre/code/span[9] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.kswwwA}, goog:chromeOptions: {debuggerAddress: localhost:34467}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:34467/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 43908c99e2d3181950c3f0c072eb4fe7"
+"KWD","Authorize","5123450000000008","","","","","","Fail","No frame element found by name or id tap-card-iframe
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: driver.version: unknown | Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='root']/section/aside/article[2]/pre/code/span[9] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.kswwwA}, goog:chromeOptions: {debuggerAddress: localhost:34467}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:34467/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 43908c99e2d3181950c3f0c072eb4fe7"
+"Currency","Purpose","Card Number","Token ID","Brand","Scheme","Status","Failure Reason"
+"Currency","Purpose","Card Number","Brand","Scheme","Authenticate ID","Authentication.Status","Response.Message"
+"Currency","Purpose","Card Number","Token ID","Brand","Scheme","Status","Failure Reason"
+"Currency","Purpose","Card Number","Brand","Scheme","Authenticate ID","Authentication.Status","Response.Message"
+"KWD","Charge","5123450000000008","","","","","","Fail"," | Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='root']/section/aside/article[2]/pre/code/span[9] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.WAKhX1}, goog:chromeOptions: {debuggerAddress: localhost:42475}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:42475/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bb788adc885b204cf658bf5ec3688e26"
+"KWD","Authorize","5123450000000008","","","","","","Fail"," | Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='root']/section/aside/article[2]/pre/code/span[9] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.WAKhX1}, goog:chromeOptions: {debuggerAddress: localhost:42475}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:42475/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bb788adc885b204cf658bf5ec3688e26"
+"KWD","Save Token","5123450000000008","","","","","","Fail"," | Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='root']/section/aside/article[2]/pre/code/span[9] (tried for 15 second(s) with 500 milliseconds interval)"
+"AED","Charge","5123450000000008","","","","","","Fail","no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.133)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bb788adc885b204cf658bf5ec3688e26, findElements {value=tap-card-iframe, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.WAKhX1}, goog:chromeOptions: {debuggerAddress: localhost:42475}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:42475/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bb788adc885b204cf658bf5ec3688e26 | Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='root']/section/aside/article[2]/pre/code/span[9] (tried for 15 second(s) with 500 milliseconds interval)"
+"AED","Authorize","5123450000000008","","","","","","Fail","no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.133)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bb788adc885b204cf658bf5ec3688e26, findElements {value=tap-card-iframe, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.WAKhX1}, goog:chromeOptions: {debuggerAddress: localhost:42475}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:42475/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bb788adc885b204cf658bf5ec3688e26 | Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='root']/section/aside/article[2]/pre/code/span[9] (tried for 15 second(s) with 500 milliseconds interval)"
+"AED","Save Token","5123450000000008","","","","","","Fail","no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.133)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bb788adc885b204cf658bf5ec3688e26, findElements {value=tap-card-iframe, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.WAKhX1}, goog:chromeOptions: {debuggerAddress: localhost:42475}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:42475/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bb788adc885b204cf658bf5ec3688e26 | Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='root']/section/aside/article[2]/pre/code/span[9] (tried for 15 second(s) with 500 milliseconds interval)"
+"BHD","Charge","5123450000000008","","","","","","Fail","no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.133)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bb788adc885b204cf658bf5ec3688e26, findElements {value=tap-card-iframe, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.WAKhX1}, goog:chromeOptions: {debuggerAddress: localhost:42475}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:42475/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bb788adc885b204cf658bf5ec3688e26 | Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='root']/section/aside/article[2]/pre/code/span[9] (tried for 15 second(s) with 500 milliseconds interval)"
+"BHD","Authorize","5123450000000008","","","","","","Fail","no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.133)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bb788adc885b204cf658bf5ec3688e26, findElements {value=tap-card-iframe, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.WAKhX1}, goog:chromeOptions: {debuggerAddress: localhost:42475}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:42475/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bb788adc885b204cf658bf5ec3688e26 | Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='root']/section/aside/article[2]/pre/code/span[9] (tried for 15 second(s) with 500 milliseconds interval)"
+"BHD","Save Token","5123450000000008","","","","","","Fail","no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.133)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bb788adc885b204cf658bf5ec3688e26, findElements {value=tap-card-iframe, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.WAKhX1}, goog:chromeOptions: {debuggerAddress: localhost:42475}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:42475/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bb788adc885b204cf658bf5ec3688e26 | Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='root']/section/aside/article[2]/pre/code/span[9] (tried for 15 second(s) with 500 milliseconds interval)"
+"EGP","Charge","5123450000000008","","","","","","Fail","no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.133)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bb788adc885b204cf658bf5ec3688e26, findElements {value=tap-card-iframe, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.WAKhX1}, goog:chromeOptions: {debuggerAddress: localhost:42475}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:42475/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bb788adc885b204cf658bf5ec3688e26 | Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='root']/section/aside/article[2]/pre/code/span[9] (tried for 15 second(s) with 500 milliseconds interval)"
+"EGP","Authorize","5123450000000008","","","","","","Fail","no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.133)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bb788adc885b204cf658bf5ec3688e26, findElements {value=tap-card-iframe, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.WAKhX1}, goog:chromeOptions: {debuggerAddress: localhost:42475}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:42475/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bb788adc885b204cf658bf5ec3688e26 | Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='root']/section/aside/article[2]/pre/code/span[9] (tried for 15 second(s) with 500 milliseconds interval)"
+"EGP","Save Token","5123450000000008","","","","","","Fail","no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.133)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bb788adc885b204cf658bf5ec3688e26, findElements {value=tap-card-iframe, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.WAKhX1}, goog:chromeOptions: {debuggerAddress: localhost:42475}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:42475/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bb788adc885b204cf658bf5ec3688e26 | Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='root']/section/aside/article[2]/pre/code/span[9] (tried for 15 second(s) with 500 milliseconds interval)"
+"EUR","Charge","5123450000000008","","","","","","Fail","no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.133)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bb788adc885b204cf658bf5ec3688e26, findElements {value=tap-card-iframe, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.WAKhX1}, goog:chromeOptions: {debuggerAddress: localhost:42475}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:42475/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bb788adc885b204cf658bf5ec3688e26 | Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='root']/section/aside/article[2]/pre/code/span[9] (tried for 15 second(s) with 500 milliseconds interval)"
+"EUR","Authorize","5123450000000008","","","","","","Fail","no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.133)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bb788adc885b204cf658bf5ec3688e26, findElements {value=tap-card-iframe, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.WAKhX1}, goog:chromeOptions: {debuggerAddress: localhost:42475}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:42475/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bb788adc885b204cf658bf5ec3688e26 | Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='root']/section/aside/article[2]/pre/code/span[9] (tried for 15 second(s) with 500 milliseconds interval)"
+"EUR","Save Tok"Currency","Purpose","Card Number","Token ID","Brand","Scheme","Status","Failure Reason"
+"Currency","Purpose","Card Number","Brand","Scheme","Authenticate ID","Authentication.Status","Response.Message"
+"KWD","Charge","5123450000000008","","","","","","Fail"," | Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='root']/section/aside/article[2]/pre/code/span[9] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.YZQlks}, goog:chromeOptions: {debuggerAddress: localhost:36123}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:36123/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3c27067a9d58e3117359e1cf7d4d2586"
+"KWD","Authorize","5123450000000008","","","","","","Fail"," | Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='root']/section/aside/article[2]/pre/code/span[9] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-48-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /tmp/.com.google.Chrome.YZQlks}, goog:chromeOptions: {debuggerAddress: localhost:36123}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:36123/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3c27067a9d58e3117359e1cf7d4d2586"
+"Currency","Purpose","Card Number","Token ID","Brand","Scheme","Status","Failure Reason"
+"Currency","Purpose","Card Number","Brand","Scheme","Authenticate ID","Authentication.Status","Response.Message"

@@ -70,6 +70,8 @@ public class CardAuthenticatedTokenTest {
         );
     }
 
+
+    /*
     private void runTestForCurrencyCardAndPurpose(String currency, Map<String, String> cardDetails, String purpose) {
         String status = "Pass";
         String failureReason = "";
@@ -81,14 +83,19 @@ public class CardAuthenticatedTokenTest {
 
         try {
             cardPage.selectCurrency(currency);
+            System.out.println("Currency selected: " + currency);
             cardPage.selectPurpose(purpose);
+            System.out.println("Purpose selected: " + purpose);
             cardPage.enterCardDetails(cardDetails.get("number"), cardDetails.get("expiry"), cardDetails.get("cvv"));
+            System.out.println("Card details entered: " + cardDetails.get("number"));
             cardPage.clickCreateToken();
+            System.out.println("Create Token button clicked...");
 
           //  cardPage.handleNestedAuthenticationFrameAndSubmit();
 
-          //  cardPage.handleAuthenticationFrameAndSubmit();
           //  cardPage.clickSubmitBttn();
+
+            cardPage.handleAuthenticationFrameAndSubmit();
 
             cardPage.clickResponseRadioButton();
 
@@ -122,4 +129,65 @@ public class CardAuthenticatedTokenTest {
                 ", Response Message: " + responseMessage + ", Status: " + status +
                 (status.equals("Fail") ? ", Reason: " + failureReason : ""));
     }
+
+     */
+
+
+
+    private void runTestForCurrencyCardAndPurpose(String currency, Map<String, String> cardDetails, String purpose) {
+        String status = "Pass";
+        String failureReason = "";
+        String tokenId = "";
+        String authenticationTokenBrand = "";
+        String authenticationTokenScheme = "";
+        String authenticationStatus = "";
+        String responseMessage = "";
+
+        try {
+            cardPage.handleAuthenticationFrameAndSubmit();
+
+        } catch (Exception e) {
+            System.out.println("Error encountered with currency: " + currency + ", card: " + cardDetails.get("number") + ", purpose: " + purpose + ". Error: " + e.getMessage());
+            status = "Fail";
+            failureReason = e.getMessage();
+        }
+
+        try {
+            tokenId = cardPage.getTokenId();
+            authenticationTokenBrand = cardPage.getAuthenticationTokenBrand();
+            authenticationTokenScheme = cardPage.getAuthenticationTokenScheme();
+            authenticationStatus = cardPage.getAuthenticationStatus();
+            responseMessage = cardPage.getResponseMessage();
+
+        } catch (Exception e) {
+            status = "Fail";
+            failureReason += " | " + e.getMessage();
+        }
+
+        csvWriter.writeRecord(new String[] {
+                currency,
+                purpose,
+                cardDetails.get("number"),
+                tokenId,
+                authenticationTokenBrand,
+                authenticationTokenScheme,
+                authenticationStatus,
+                responseMessage,
+                status,
+                failureReason
+        });
+
+        System.out.println("Currency: " + currency +
+                ", Purpose: " + purpose +
+                ", Card: " + cardDetails.get("number") +
+                ", Token ID: " + tokenId +
+                ", Authentication Brand: " + authenticationTokenBrand +
+                ", Authentication Scheme: " + authenticationTokenScheme +
+                ", Authentication Status: " + authenticationStatus +
+                ", Response Message: " + responseMessage +
+                ", Status: " + status +
+                (status.equals("Fail") ? ", Reason: " + failureReason : ""));
+    }
+
 }
+
