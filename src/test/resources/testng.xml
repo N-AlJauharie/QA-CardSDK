@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="CardSDK-Beta">
+    <test name="CardSDKTokenTests">
+        <classes>
+            <class name="TokenAsCharge.Chrome.VisawithAED" />
+            <class name="TokenAsCharge.Chrome.VisawithSAR" />
+            <class name="TokenAsCharge.Chrome.MadawithAED" />
+            <class name="TokenAsCharge.Chrome.MadawithSAR" />
+            <class name="TokenAsCharge.Chrome.AMEXwithUSD" />
+            <class name="TokenAsCharge.Chrome.BenefitwithBHD" />
+            <class name="TokenAsCharge.Chrome.BenefitwithAED" />
+            <class name="TokenAsCharge.Chrome.MasterCardwithSAR" />
+            <class name="TokenAsCharge.Chrome.MasterCardwithAED" />
+        </classes>
+    </test>
+</suite>

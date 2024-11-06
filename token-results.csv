@@ -1,0 +1,11 @@
+
+"Currency","Purpose","Card Number","Token ID","Brand","Scheme","Status","Failure Reason"
+"KWD","TokenAsCharge/Chrome","4464040000000007","""tok_hNOk49246200oI26cD10l246""","""VISA""","""MADA""","Pass",""
+"AED","TokenAsCharge/Chrome","4464040000000007","""tok_0NUC1124621ZNYe6su10h703""","""VISA""","""MADA""","Pass",""
+"BHD","TokenAsCharge/Chrome","4464040000000007","""tok_pX7n3324621iiP76gv10I971""","""VISA""","""MADA""","Pass",""
+"EGP","TokenAsCharge/Chrome","4464040000000007","""tok_VODY024622i4Lz60D10R405""","""VISA""","""MADA""","Pass",""
+"EUR","TokenAsCharge/Chrome","4464040000000007","""tok_mXA12324622nykv6h310s24""","""VISA""","""MADA""","Pass",""
+"GBP","TokenAsCharge/Chrome","4464040000000007","""tok_Vy8m4524622syVQ6r110t491""","""VISA""","""MADA""","Pass",""
+"OMR","TokenAsCharge/Chrome","4464040000000007","""tok_Stba824623ZLL46Jn10L98""","""VISA""","""MADA""","Pass",""
+"QAR","TokenAsCharge/Chrome","4464040000000007","""tok_07sC3024623k1zX6D210R848""","""VISA""","""MADA""","Pass",""
+"SAR","TokenAsCharge/Chrome","4464040000000007","""tok_ZF7R532462374Hc6dV104797""","""VISA""","""MADA""","Pass",""
